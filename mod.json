@@ -1,0 +1,7 @@
+{
+  "Name": "TheUnknownVariable",
+  "Author": "HotFuzz",
+  "Enabled": true,
+ 
+  "DLL": "UnknownVariable.dll"
+}
