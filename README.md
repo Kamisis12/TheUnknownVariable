@@ -1,5 +1,7 @@
 # TheUnknownVariable
-Makes the BT difficulty display missrepresent difficulty. In order to create feeling of real risk.
+Makes the BT difficulty display missrepresent difficulty in order to create feeling of real risk. 
+
+Structure:
 It is prefix harmony replace patch. 
 
 Variables
